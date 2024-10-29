@@ -2,6 +2,17 @@
 
 A simple shopping cart implementation in React using TypeScript and custom store management with `useSyncExternalStore`.
 
+## Demo
+
+![Shopping Cart Demo](https://i.imgur.com/5svrln0.gif)
+
+The demo shows the main features:
+- Adding/removing products
+- Opening cart modal
+- Updating quantities
+- Real-time total calculation
+- Smooth re-renders optimization
+
 ## Features
 
 - Add/remove products to cart
